@@ -1,4 +1,5 @@
 # BlenderProject
+![image](https://github.com/CarbonProg/BlenderProject/assets/133951431/ece7ce7d-69b0-4857-ab3d-f415a722f222)
 ## Фрэймворк
 - **Blender**
 ## Актуальность
